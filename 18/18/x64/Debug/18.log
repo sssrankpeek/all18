@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\росен\Documents\GitHub\18\18\18\Source.c(39,12): warning C4305: =: усечение из "int" в "char"
+C:\Users\росен\Documents\GitHub\18\18\18\Source.c(75,6): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  18.vcxproj -> C:\Users\росен\Documents\GitHub\18\18\x64\Debug\18.exe
